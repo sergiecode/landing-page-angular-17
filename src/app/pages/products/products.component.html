@@ -1,0 +1,25 @@
+<div class="container">
+    <h1>This is our products:</h1>
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Product</th>
+                <th scope="col">Price</th>
+                <th scope="col">Description</th>
+                <th scope="col">Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (product of productList; track $index) {
+            <tr>
+                <th scope="row">{{product.id}}</th>
+                <td>{{product.title}}</td>
+                <td>{{product.price | currency}}</td>
+                <td>{{product.description}}</td>
+                <td><button type="button" class="btn btn-outline-primary" (click)="navegate(product.id)">Details</button></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
