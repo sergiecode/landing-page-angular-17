@@ -1,27 +1,31 @@
-# LandingPageAngular17
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+# ANGULAR: Landing page en Angular 17
 
-## Development server
+Este repositorio tiene una app web tipo landing page para poder poner en práctica los nuevos features que trae ANGULAR 17. Este repositorio pertenece al curso de Angular desde Cero que puedes ver aquí:  [https://youtu.be/soInCF7nbDw](https://youtu.be/soInCF7nbDw)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Uso
 
-## Code scaffolding
+1.  Cloná el repositorio haciendo `git clone https://github.com/sergiecode/landing-page-angular-17`
+2.  Abrí el proyecto en su editor de código
+3.  Instalá de los paquetes y módulos requeridos: `npm install`
+6. Levantá la app haciendo `npm start`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Requiere:
 
-## Build
+-   **NODE**: Se debe instalar NODE en el sistema operativo
+-   **ANGULAR/CLI**: Para poder manipular el proyecto con la interfaz de Angular
+-   **GIT**: Debe tener Instalado GIT
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Acerca del curso de  [ANGULAR desde Cero en YouTube](https://youtu.be/soInCF7nbDw)
+¡El curso que tanto me pidieron llegó! Angular es un framework de código abierto en TypeScript mantenido por Google y una comunidad activa de desarrolladores. 
 
-## Running unit tests
+Diseñado para la creación eficiente de aplicaciones web dinámicas y de una sola página (SPA), Angular ofrece una estructura robusta basada en componentes. 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+¡El curso de React ya superó ampliamente los 100k y muchísima gente me estaba pidiendo el de Angular y por fin ha llegado!
 
-## Running end-to-end tests
+## Me pueden encontrar en: 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[Canal de Youtube | Sergie Code](https://www.youtube.com/@SergieCode)
+[Github | Sergie Code](https://github.com/sergiecode)
+[LinkedIn | Sergie Code](https://www.linkedin.com/in/sergiecode/)
+[Instagram | Sergie Code](https://www.instagram.com/sergiecode)
